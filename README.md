@@ -1,6 +1,6 @@
-Bienvenid@ personita que entro a esta **"Biblioteca"** del conocimiento sobre la ingeniería en sistemas y similares.
+##Bienvenid@ personita que entro a esta **"Biblioteca"** del conocimiento sobre la ingeniería en sistemas y similares.
 
-## 🧭 ¿Qué es esto?
+### 🧭 ¿Qué es esto?
 
 Este es un temario gigante y evolutivo que cubre **todo** lo que un **"True Engineer" >:D** necesita. Nace de la frustración de ver cursos incompletos y la necesidad de tener un "ancla" en un mar de información infinita.
 
@@ -32,9 +32,11 @@ Este es un temario gigante y evolutivo que cubre **todo** lo que un **"True Engi
     
 - **Herramientas Generativas IA:** Gemini, Claude — usadas como apoyo de estructura, redacción de cimientos y lógica, nunca como reemplazo del criterio humano del equipo.
     
-- **Colaboradores:** Pani (@ChocoPanci) - Estructurador, diseñador y colaborador de ideas
+- **Colaboradores:**
     
 - **Comunidad:** Discord: https://discord.gg/WCmM94Ba6
+                 GitHub: https://github.com/TXTaro/Todos-Sobre-Ingenier-a-En-Sistemas-y-o-Programacion/tree/main
+                 MediaFire (Temario para descarga en obsidian): https://www.mediafire.com/folder/8mv1602ab1qcu/Todos_Sobre_Ingeniería_En_Sistemas
     
 
 ## 🚦 Estado del Sistema
@@ -48,6 +50,4 @@ Versión Actual: `1.1.1.1 (Alpha)`
 - 💻 Programación — Módulo 1 (The Core Logic): **En progreso** (Lección 1.1 completa)
 - 🖥️ Sistemas — Módulo 1: Sin empezar
 
-Módulo Activo: Programación — Módulo 1: `The Core Logic`
-
-Última Actualización: `9 de Julio, 2026`
+Última Actualización: `11 de Julio, 2026`
