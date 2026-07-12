@@ -34,9 +34,9 @@ Este es un temario gigante y evolutivo que cubre **todo** lo que un **"True Engi
     
 - **Colaboradores:**
     
-- **Comunidad:** Discord: https://discord.gg/WCmM94Ba6
-  GitHub: https://github.com/TXTaro/Todos-Sobre-Ingenier-a-En-Sistemas-y-o-Programacion/tree/main
-  MediaFire (Temario para descarga en obsidian): https://www.mediafire.com/folder/8mv1602ab1qcu/Todos_Sobre_Ingeniería_En_Sistemas
+- **Comunidad:** > Discord: https://discord.gg/WCmM94Ba6
+                 > GitHub: https://github.com/TXTaro/Todos-Sobre-Ingenier-a-En-Sistemas-y-o-Programacion/tree/main
+                 > MediaFire (Temario para descarga en obsidian): https://www.mediafire.com/folder/8mv1602ab1qcu/Todos_Sobre_Ingeniería_En_Sistemas
     
 
 ## 🚦 Estado del Sistema
