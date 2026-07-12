@@ -1,4 +1,3 @@
-- ɪɴᴛʀᴏᴅᴜᴄᴄɪóɴ 1 ᴍᴏᴅᴜʟᴏ -
 # 📁 Módulo 1: "The Core Logic" (Fundamentos del Pensamiento Estructurado)
 
 > **"Code is like magic; you write words, and things happen. Pero antes de la magia, hay lógica — y esa la aprendes aquí primero, sin una sola línea de código todavía."**
