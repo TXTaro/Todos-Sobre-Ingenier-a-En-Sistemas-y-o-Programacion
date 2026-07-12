@@ -1,4 +1,3 @@
-- ɪɴᴛʀᴏᴅᴜᴄᴄɪóɴ 1 ᴍᴏᴅᴜʟᴏ -
 # Módulo 1: "The Developer's Syntax" (Fundamentos Esenciales)
 
 > **"If you can read code syntax, you can learn English syntax."** > Bienvenid@ al Módulo 1 de tu inglés técnico. Aquí no venimos a memorizar gramática aburrida ni listas interminables de palabras; venimos a entender las reglas del juego. Así como un lenguaje de programación exige un orden estricto para compilar, el inglés tiene su propia sintaxis estructural. Si dominas esa base, podrás leer cualquier documentación.
