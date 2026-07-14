@@ -1,4 +1,4 @@
-##Bienvenid@ personita que entro a esta **"Biblioteca"** del conocimiento sobre la ingeniería en sistemas y similares.
+## Bienvenid@ personita que entro a esta **"Biblioteca"** del conocimiento sobre la ingeniería en sistemas y similares.
 
 ### 🧭 ¿Qué es esto?
 
