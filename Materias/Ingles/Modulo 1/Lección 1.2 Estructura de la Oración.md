@@ -1,3 +1,4 @@
+
 # Inglés Técnico — Módulo 1 — Lección 1.2: Estructura de la Oración (Pronombres, Artículos y Orden de las Palabras)
 
 > **"Un idioma sin orden es como código sin sintaxis: las piezas pueden ser correctas, pero si están en el orden equivocado, no compila."**
@@ -35,11 +36,31 @@ Toda oración simple en inglés sigue este patrón:
 
 ```
 [SUJETO]  +  [VERBO]  +  [OBJETO/COMPLEMENTO]
-
-I          eat         pizza
-She        reads       books
-The dog    runs        fast
 ```
+
+**Sujetos:** Los **sujetos** en inglés se expresan principalmente mediante los **pronombres de sujeto** (_subject pronouns_), que reemplazan al nombre de la persona o cosa que realiza la acción.
+#### Lista de Pronombres de Sujetos:
+
+|                    |                        |                                                       |
+| ------------------ | ---------------------- | ----------------------------------------------------- |
+| Pronombre (Inglés) | Equivalencia (Español) | Uso                                                   |
+| **I**              | Yo                     | Primera persona singular                              |
+| **You**            | Tú / Usted / Vos       | Segunda persona (singular y plural)                   |
+| **He**             | Él                     | Tercera persona singular (masculino)                  |
+| **She**            | Ella                   | Tercera persona singular (femenino)                   |
+| **It**             | Eso / Ello / (Él/Ella) | Tercera persona singular (cosas, animales, conceptos) |
+| **We**             | Nosotros / Nosotras    | Primera persona plural                                |
+| **They**           | Ellos / Ellas          | Tercera persona plural                                |
+#### Formas de verbos:
+
+| Tiempo       | Tipo     | Estructura Clave                      | Ejemplo              |
+| ------------ | -------- | ------------------------------------- | -------------------- |
+| **Presente** | Simple   | Sujeto + Verbo (-s)                   | _He eats_            |
+|              | Continuo | Sujeto + am/is/are + -ing             | _He is eating_       |
+| **Pasado**   | Simple   | Sujeto + Verbo (-ed / irregular)      | _He ate_             |
+|              | Continuo | Sujeto + was/were + -ing              | _He was eating_      |
+| **Futuro**   | Will     | Sujeto + will + Verbo                 | _He will eat_        |
+|              | Going to | Sujeto + am/is/are + going to + Verbo | _He is going to eat_ |
 
 - **Sujeto:** quién hace la acción.
 - **Verbo:** la acción en sí.
@@ -58,21 +79,9 @@ No es coincidencia que el orden se sienta familiar si programas — muchos lengu
 
 ---
 
-### 2. Pronombres Personales: quién hace la acción
+### 2. Detalles en los sujetos:
 
 Los pronombres reemplazan un nombre para no repetirlo todo el tiempo.
-
-```
-I       yo
-You     tú / usted
-He      él
-She     ella
-It      eso/ello (para objetos, animales, cosas sin género)
-We      nosotros
-You     ustedes
-They    ellos/ellas
-```
-
 **Detalle importante que no existe en español:** en inglés, el pronombre `I` (yo) **siempre se escribe en mayúscula**, sin importar dónde esté en la oración.
 
 ```
@@ -112,37 +121,57 @@ Its battery is low.        ← "its" (posesivo) vs "it's" (contracción de "it i
 
 ### 4. Artículos: `a`, `an`, `the`
 
-En español usas "el/la/un/una". En inglés es más simple en cantidad, pero tiene una regla que no existe en español:
+La regla de oro es: **no importa la letra con la que empieza la palabra, sino el SONIDO con el que empieza**.  El objetivo es facilitar la pronunciación evitando choques entre vocales o consonantes.
+## 1. La Regla Fundamental del Sonido
 
-**`a` y `an` = "un/una" (artículo indefinido, algo no específico):**
+- **Usa `a`**: Cuando la palabra siguiente empieza con un **sonido de consonante**.
+    
+    - _Ejemplos:_ **a** cat, **a** book, **a** house. 
+        
+- **Usa `an`**: Cuando la palabra siguiente empieza con un **sonido de vocal** (a, e, i, o, u).
+    
+    - _Ejemplos:_ **an** apple, **an** elephant, **an** idea. 
+        
+## 2. Excepciones Importantes (¡Cuidado aquí!)
 
-```
-a book       (un libro, cualquiera)
-an apple     (una manzana, cualquiera)
-```
+Aquí es donde la ortografía engaña. Debes fijarte en cómo suena la primera sílaba al pronunciarla. 
+### La letra "H"
 
-**La regla dura: `an` va antes de sonido de vocal, `a` va antes de sonido de consonante.**
+- **H muda (Silent H):** Si la "h" no suena, la palabra empieza directamente con sonido de vocal. Usa **`an`**.
+    
+    - _Ejemplos:_ **an** hour (una hora), **an** honest man (un hombre honesto), **an** honor. 
+        
+- **H pronunciada:** Si suena la "h" (como una jota suave), usa **`a`**.
+    
+    - _Ejemplos:_ **a** house, **a** hotel, **a** happy dog.
+        
+    - _Nota:_ En palabras como _historic_, ambos usos se aceptan, pero **a historic** es más común en inglés moderno. 
+        
+### La letra "U" y "Eu"
 
-```
-a  car        (consonante)
-an hour       (aunque "hour" empieza con "h" escrita, SUENA con vocal → "an")
-a  university (aunque empieza con "u" escrita, SUENA como "y" consonante → "a")
-```
+- **Sonido "Yoo" (como 'y' en 'yo'):** Aunque es vocal escrita, el sonido inicial es de consonante (/j/). Usa **`a`**.
+    
+    - _Ejemplos:_ **a** university (suena "yuniversity"), **a** European trip, **a** user, **a** unicorn. 
+        
+- **Sonido "Ah" o "Uh":** Si suena como vocal pura. Usa **`an`**.
+    
+    - _Ejemplos:_ **an** umbrella, **an** uncle, **an** unusual day.
+        
+### La palabra "One"
 
-Fíjate: la regla es sobre el **sonido**, no sobre la letra escrita. Por eso conectamos esto directo con la pronunciación de la 1.1.
+- Aunque empieza con "o", se pronuncia con sonido de "w" (consonante).
+    
+    - _Correcto:_ **a** one-eyed pirate.
+        
+    - _Incorrecto:_ ~~an one-eyed pirate~~.
 
-**`the` = "el/la/los/las" (artículo definido, algo específico y ya identificado):**
-
-```
-a car    → un carro cualquiera
-the car  → EL carro (uno específico, ya sabes cuál)
-```
+Puedes aprender mas sobre a y an y el como se usa en cada situación con tus herramientas de IA ya que este tema puede llegar a ser mas complicado con diferentes reglas y sonidos
 
 ---
 
 ### 5. Plural de sustantivos: la regla base
 
-La forma más común: agregar `-s` al final.
+La forma más común: agregar `-s` al final.
 
 ```
 book  → books
@@ -179,7 +208,7 @@ The  developer   reads    the  documentation.
 ```
 
 ```
-She  has     a   laptop.
+She      has    a  laptop.
 [sujeto][verbo][a][objeto]
 ```
 
@@ -252,7 +281,7 @@ _(no lo vas a "usar" en un commit, pero te da contexto y entrena tu oído)_
 Antes de pasar a la Lección 1.3, responde esto en el canal de la materia:
 
 1. Ordena correctamente esta oración revuelta: `pizza / eats / the / developer`
-2. Elige `a` o `an` para cada palabra y explica por qué según el sonido (no la letra): `___ hour`, `___ university`, `___ error`, `___ IDE`
+2. Elige `a` o `an` para cada palabra y explica por qué según el sonido (no la letra): `___ hour`, `___ university`, `___ error`, `___ IDE` `___ car`
 3. Escribe 3 oraciones propias en formato S-V-O usando al menos un pronombre posesivo y un artículo.
 
 > **Regla de la comunidad:** No postees la respuesta directa de otros. Si alguien se equivoca, dale una pista, no la solución.
