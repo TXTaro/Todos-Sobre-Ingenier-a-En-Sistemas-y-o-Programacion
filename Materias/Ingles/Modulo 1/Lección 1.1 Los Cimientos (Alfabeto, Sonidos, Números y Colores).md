@@ -35,8 +35,8 @@ No te compliques memorizando reglas de pronunciación exhaustivas aquí. Eso se 
 ### 1. El Alfabeto (26 letras, sin drama)
 
 ```
-A B C D E F G H I J K L M N Ñ(no existe en inglés) O P Q R S T U V W X Y Z
-```
+A B C D E F G H I J K L M N (Ñ no existe en inglés) O P Q R S T U V W X Y Z
+``` 
 
 El inglés usa las mismas 26 letras del español, **menos la Ñ**. Eso es todo el misterio del alfabeto — la dificultad real está en cómo suenan combinadas, no en memorizar el orden (eso ya lo sabes desde primaria).
 
@@ -46,7 +46,7 @@ El inglés usa las mismas 26 letras del español, **menos la Ñ**. Eso es todo e
 
 ---
 
-### 2. Números (0–100, y el patrón detrás)
+### 2. Números (0–1000000, y el patrón detrás)
 
 No memorices 100 números sueltos. El inglés (como el español) tiene un **patrón**, y una vez que lo agarras, ya sabes contar hasta donde quieras.
 
@@ -57,8 +57,6 @@ No memorices 100 números sueltos. El inglés (como el español) tiene un **patr
 6 six    7 seven 8 eight 9 nine    10 ten
 11 eleven   12 twelve
 ```
-
-(6 7 referencia, ríanse 😑)
 
 **Del 13 al 19, patrón (número + "-teen"):**
 
@@ -80,23 +78,103 @@ No memorices 100 números sueltos. El inglés (como el español) tiene un **patr
 21 = twenty-one     35 = thirty-five     99 = ninety-nine
 ```
 
+**Las centenas (100 - 999):**
+
 ```
 100 = one hundred
 ```
 
-Con esto ya puedes construir cualquier número del 0 al 100 sin memorizar nada extra — es el mismo tipo de patrón posicional que viste en Matemáticas (Lección 1.1), solo que aplicado a palabras en vez de dígitos.
+Para unir un dígito de centena con otros números, se nombra el dígito seguido de la palabra **hundred**. 
+
+- **Inglés Americano:** Generalmente no se usa "and" después de hundred. 
+    
+- **Inglés Británico:** Se suele insertar **and** antes de las decenas o unidades restantes. 
+    
+- **Regla:** `[Numero] hundred [and] [resto del número]`
+    
+- **Ejemplo (3, 6 y 0):** 3 en centenas, 6 en decenas.
+    
+    - Escritura: **Three hundred sixty** (EE. UU.) / **Three hundred and sixty** (Reino Unido).
+        
+    - Número: 360.
+        
+- **Ejemplo (1, 0 y 5):** El cero en medio no se nombra como "zero", simplemente se pasa a la siguiente cifra.
+    
+    - Escritura: **One hundred five** o **One hundred and five**.
+        
+    - Número: 105.
+
+**Los Miles/Millones (1000 - 999,999):**
+
+```
+1,000 = One thousand    10,000 = ten thousand    100,000 = one hundred thousand
+```
+
+Se lee el número antes de la coma, se dice "thousand", y luego se lee el número después de la coma.
+
+- **Regla:** `[Número] thousand, [resto]`
+    
+- **Ejemplo (Unir 2 y 5 para miles):**
+    
+    - 25,000 → **Twenty-five thousand**.
+        
+- **Ejemplo complejo (365,120):**
+    
+    - Se divide en `365` y `120`.
+        
+    - Lectura: **Three hundred sixty-five thousand, one hundred twenty**.
+
+```
+1,000,000 = one million  10,000,000 = ten million  100,000,000 = One hundred million
+```
+
+Cuando llegas a siete dígitos, la coma siguiente representa **million**.  Al igual que con "hundred" y "thousand", la palabra **million** permanece en singular si hay un número específico antes (ej.  "two million", no "two millions").
+
+- **Regla:** `[Número] million, [resto]`
+    
+- **Ejemplo (1 y 0s):**
+    
+    - 1,000,000 → **One million** (o _A million_).
+        
+- **Ejemplo complejo (2,345,678):**
+    
+    - Se divide en `2` (millones), `345` (miles), `678` (unidades).
+        
+    - Lectura: **Two million, three hundred forty-five thousand, six hundred seventy-eight** 
+
+## Reglas Clave de Ortografía y Pronunciación
+
+1. **Uso del guion (-):** Es obligatorio escribir con guion los números compuestos del 21 al 99 (ej. _twenty-one_, _ninety-nine_). No se usa guion para centenas o miles (ej. _one hundred twenty_, no _one-hundred-twenty_). 
+    
+2. **Singular vs. Plural:** Las palabras _hundred_, _thousand_ y _million_* **nunca** llevan "s" cuando van precedidas de un número.
+    
+    - Correcto: _Five hundred_, _Ten million_.
+        
+    - Incorrecto: _Five hundreds_, _Ten millions_.
+        
+    - Excepción: Se usa el plural solo para cantidades indefinidas, ej. _Millions of people_ (Millones de personas).
+        
+3. **El Cero:** En números grandes, el cero en posición intermedia no se pronuncia como "zero". Simplemente se omite y se pasa a la siguiente cifra (ej. 1,005 es _one thousand five_, no _one thousand zero five_).
+    
+4. **La palabra "And":**
+    
+    - En **EE. UU.**, es opcional y a menudo se omite (_One hundred twenty_).
+        
+    - En **Reino Unido**, es estándar usarla antes de las decenas/unidades (_One hundred **and** twenty_).
+
+Con esto ya puedes construir cualquier número del 0 al 1,000,000 sin memorizar nada extra — es el mismo tipo de patrón posicional que viste en Matemáticas (Lección 1.1), solo que aplicado a palabras en vez de dígitos.
 
 ---
 
 ### 3. Colores (vocabulario base)
 
 ```
-red      rojo         blue     azul
-green    verde        yellow   amarillo
-black    negro        white    blanco
-orange   naranja      purple   morado
-gray     gris         brown    café/marrón
-pink     rosa
+red    =  rojo         blue    =  azul
+green  =  verde        yellow  =  amarillo
+black  =  negro        white   =  blanco
+orange =  naranja      purple  =  morado
+gray   =  gris         brown   =  café/marrón
+pink   =  rosa
 ```
 
 No hay lógica que "deducir" aquí — es vocabulario puro, se aprende por repetición y uso. No te vamos a poner una lista de 40 colores; con estos ya tienes cubierto el 90% de lo que vas a necesitar en el día a día, y el resto lo agregas cuando te haga falta.
@@ -108,13 +186,13 @@ No hay lógica que "deducir" aquí — es vocabulario puro, se aprende por repet
 No es gramática, es lo mínimo para no quedarte mudo:
 
 ```
-Hello / Hi        → Hola
-Good morning       → Buenos días
-Good afternoon     → Buenas tardes
-Good night         → Buenas noches
-How are you?       → ¿Cómo estás?
-I'm fine, thanks   → Estoy bien, gracias
-My name is...      → Mi nombre es...
+Hello / Hi          → Hola
+Good morning        → Buenos días
+Good afternoon      → Buenas tardes
+Good night          → Buenas noches
+How are you?        → ¿Cómo estás?
+I'm fine, thanks    → Estoy bien, gracias
+My name is...       → Mi nombre es...
 Nice to meet you    → Mucho gusto
 Thank you / Thanks  → Gracias
 You're welcome      → De nada
