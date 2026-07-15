@@ -14,14 +14,63 @@ Con esta guía, cada quien arma su propio ritmo de estudio: quien quiera solo lo
 
 ---
 
-## 🛠️ Parte 1: Configurando tu NotebookLM
+## 🐙 Parte 1: Accediendo al Temario desde GitHub
+
+> Antes de meterte a NotebookLM necesitas de dónde sacar las lecciones. Esta parte es justo eso: cómo entrar al repositorio, cómo bajar lo que necesitas, y cómo enterarte cuando sale algo nuevo — sin morir en el intento aunque nunca hayas tocado GitHub en tu vida.
+
+### ¿Qué es GitHub y por qué lo usamos?
+
+GitHub es donde vive la versión oficial del temario. Es un lugar donde se guarda todo el contenido con **historial de versiones** — o sea, cada cambio que se hace queda registrado, y siempre puedes ver o regresar a una versión anterior si hace falta. Es la fuente de verdad: si alguna vez hay duda de "¿esta es la versión más reciente?", la respuesta está aquí, no en un PDF que alguien te pasó por Discord hace tres meses.
+
+> Si GitHub se te complica de plano, el temario también está disponible en MediaFire (link en el Bienvenido) — pero ahí no vas a ver el historial de cambios ni sabrás tan rápido cuándo hay algo nuevo.
+
+### Cómo entrar por primera vez
+
+1. Entra al link del repositorio (lo encuentras en el documento de Bienvenido, sección "El Equipo de Desarrollo").
+2. Vas a ver una lista de carpetas y archivos `.md` — esa es la estructura completa del temario, organizada igual que en Obsidian (por materia → módulo → lección).
+3. Para leer una lección directo en el navegador, solo dale clic al archivo `.md` que quieras — GitHub lo muestra ya formateado, no como texto plano.
+
+### Cómo bajar el temario completo (sin usar comandos)
+
+No necesitas saber usar Git ni la terminal para esto:
+
+1. En la página principal del repositorio, busca el botón verde que dice **"Code"**.
+2. Dale clic → selecciona **"Download ZIP"**.
+3. Descomprime el ZIP en tu computadora y abre esa carpeta directo en Obsidian como tu vault (o mételo dentro de tu vault actual).
+
+Con eso ya tienes todo el temario completo en tu máquina, listo para ir subiendo lecciones a NotebookLM conforme avanzas (Parte 2).
+
+### Cómo saber cuándo hay una actualización
+
+Esto es lo que más te va a interesar para no quedarte atrás:
+
+- **Revisa el Registro de Cambios:** dentro del repo hay una carpeta dedicada a esto — ahí Taro anota qué cambió, cuándo y por qué en cada versión. Es tu primera parada si quieres saber "¿qué es nuevo desde la última vez que descargué?"
+- **Sección "Releases":** cuando el temario llega a una versión oficial (como la actual, Alpha 1.1.1.1), se publica como un "Release" — un snapshot congelado de esa versión específica. Ahí puedes bajar exactamente esa versión en vez de la más reciente en construcción.
+- **Botón "Watch" (arriba a la derecha del repo):** si tienes cuenta de GitHub (es gratis y toma dos minutos crearla), dale clic a "Watch" → "All Activity" o "Custom" → "Releases". Así te llega notificación directo cada vez que sale una versión nueva, sin tener que estar checando manualmente.
+- **No hace falta bajar el temario entero cada vez:** si solo salió una lección nueva, puedes ir directo a esa carpeta/archivo específico en el repo y descargar solo ese `.md` (botón de tres puntos o "Raw" → guardar página).
+
+### Lo mínimo que necesitas saber, resumido
+
+```
+1. Repo = el temario completo con historial.
+2. "Code" → "Download ZIP" = bajar todo sin comandos.
+3. Registro de Cambios = qué cambió y por qué.
+4. Releases = versiones oficiales congeladas (ej: Alpha 1.1.1.1).
+5. "Watch" → "Releases" = que GitHub te avise solo, sin estar checando tú.
+```
+
+No necesitas volverte experto en Git para aprovechar esto — con saber entrar, bajar, y activar notificaciones de Releases ya estás cubierto para seguirle el paso al temario sin quedarte pasmado esperando que alguien te avise en Discord.
+
+---
+
+## 🛠️ Parte 2: Configurando tu NotebookLM
 
 ### ¿Qué es NotebookLM y por qué este y no otro chatbot?
 
 NotebookLM es una IA de Google diseñada para trabajar **basándose únicamente en las fuentes que tú le subes** (tus documentos, PDFs, notas "Este temario :D"). A diferencia de un chat genérico, no está inventando desde su conocimiento general de internet — está leyendo exactamente lo que tú le diste. Esto es clave para este temario: significa que si tu subes la Lección 1.1 de Matemáticas, sus respuestas van a estar ancladas a lo que ahí se explicó, no a una versión random de internet que puede contradecir lo que aprendiste o usar un enfoque distinto al del temario.
 
 **Ventaja:** cero desvíos, cero alucinaciones fuera de tema, una guia que tu mismo creaste.
-**Limitante:** si no le subes suficiente material, tampoco puede "inventar" de más — para eso existen los prompts de "Modo Expansión" e IAs externas (Parte 5).
+**Limitante:** si no le subes suficiente material, tampoco puede "inventar" de más — para eso existen los prompts de "Modo Expansión" e IAs externas (Parte 6).
 
 ### Cómo organizar tus notebooks (cuadernos)
 
@@ -36,7 +85,7 @@ Recomendación de estructura, no regla obligatoria — ajusta a tu gusto:
    como una fuente nueva conforme avanzas.
 ```
 
-¿Por qué por materia y no por módulo o por lección? Porque así, cuando le preguntes algo, NotebookLM puede conectar temas de distintas lecciones ya vistas (ej: relacionar exponentes de la lección 1.3 con funciones de la lección 1.4) sin que tengas que abrir cuadernos distintos. Si el notebook empieza a sentirse muy saturado (después de varios módulos), ahí sí puedes abrir uno nuevo por módulo (Parte 5).
+¿Por qué por materia y no por módulo o por lección? Porque así, cuando le preguntes algo, NotebookLM puede conectar temas de distintas lecciones ya vistas (ej: relacionar exponentes de la lección 1.3 con funciones de la lección 1.4) sin que tengas que abrir cuadernos distintos. Si el notebook empieza a sentirse muy saturado (después de varios módulos), ahí sí puedes abrir uno nuevo por módulo (Parte 3).
 
 ### Cómo subir una lección como fuente
 
@@ -46,7 +95,7 @@ Recomendación de estructura, no regla obligatoria — ajusta a tu gusto:
 
 ---
 
-## 🧠 Parte 2: Los Modos de Estudio — a fondo
+## 🧠 Parte 3: Los Modos de Estudio — a fondo
 
 Cada lección trae prompts ya armados en 4 (o 5) modos. Aquí te explicamos **la lógica detrás de cada uno**, para que también puedas crear tus propias variaciones cuando quieras algo que no está pre-escrito.
 
@@ -75,7 +124,7 @@ Ejemplo armado desde cero:
 
 ---
 
-## 📝 Parte 3: Generando tus propios ejercicios (sin que nosotros los pre-hagamos):
+## 📝 Parte 4: Generando tus propios ejercicios (sin que nosotros los pre-hagamos):
 
 **Plantilla de generador de ejercicios (cópiala y ajusta lo que está en `[corchetes]`):**
 
@@ -91,7 +140,7 @@ Ajustalo,  editalo y darle forma a tu forma de aprender y aplicar estos temas (e
 
 ---
 
-## 🎙️ Parte 4: Funciones extra de NotebookLM que vale la pena explotar
+## 🎙️ Parte 5: Funciones extra de NotebookLM que vale la pena explotar
 
 - **Audio Overview:** genera un podcast conversacional de dos "voces IA" discutiendo las fuentes. Útil para repasar en camión/gym/haciendo otra cosa(tiempos muetos y libres), no como método principal de estudio.
 - **Mapas mentales / guías de estudio automáticas:** NotebookLM puede generarte un resumen visual de la estructura de una lección — bueno para repaso rápido antes de un reto.
@@ -99,7 +148,7 @@ Ajustalo,  editalo y darle forma a tu forma de aprender y aplicar estos temas (e
 
 ---
 
-## 🤝 Parte 5: IAs externas como complemento (no como reemplazo de NotebookLM)
+## 🤝 Parte 6: IAs externas como complemento (no como reemplazo de NotebookLM)
 
 NotebookLM es tu ancla porque no se sale del temario. Pero hay momentos donde SÍ quieres que una IA se salga del temario y traiga contexto de todo internet — para eso usas otras IAs (Claude, ChatGPT, Gemini, etc.), con la misma disciplina de siempre: **la IA acelera, tú piensas**.
 
@@ -115,7 +164,7 @@ NotebookLM es tu ancla porque no se sale del temario. Pero hay momentos donde S�
 
 ---
 
-## 📔 Parte 6: Tu Bitácora Personal (Cuaderno de Registro)
+## 📔 Parte 7: Tu Bitácora Personal (Cuaderno de Registro)
 
 Esto es distinto a "El Laboratorio" (The Sandbox), que es la zona comunitaria de experimentación avanzada. La **Bitácora** es tuya, personal, privada si quieres — el lugar donde guardas todo tu proceso, no el resultado final pulido.
 
