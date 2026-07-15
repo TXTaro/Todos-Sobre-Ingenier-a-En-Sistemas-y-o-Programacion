@@ -38,16 +38,15 @@ Este es un temario gigante y evolutivo que cubre **todo** lo que un **"True Engi
                  > GitHub: https://github.com/TXTaro/Todos-Sobre-Ingenier-a-En-Sistemas-y-o-Programacion/tree/main
                  > MediaFire (Temario para descarga en obsidian): https://www.mediafire.com/folder/8mv1602ab1qcu/Todos_Sobre_Ingeniería_En_Sistemas
     
-
-## 🚦 Estado del Sistema
-
-Versión Actual: `1.1.1.1 (Alpha)`
-
 **Progreso por materia:**
 
 - 🧮 Matemáticas Aplicadas — Módulo 1 (El Taller de Reparación): **Completo** (Lecciones 1.1 – 1.4)
 - 🇺🇸 Inglés Técnico — Módulo 1 (The Developer's Syntax): **Completo** (Lecciones 1.1 – 1.4)
-- 💻 Programación — Módulo 1 (The Core Logic): **En progreso** (Lección 1.1 completa)
-- 🖥️ Sistemas — Módulo 1: Sin empezar
+- 💻 Programación — Módulo 1 (The Core Logic): **Completo** (Lecciones 1.1 – 1.4)
+- 🖥️ Sistemas — Módulo 1: **Completo** (Lecciones 1.1 – 1.4)
 
+## 🚦 Estado del Sistema
+
+Versión Actual: `1.1.1.1 (Alpha)`
 Última Actualización: `11 de Julio, 2026`
+Herramientas de Creación: Obsidian
