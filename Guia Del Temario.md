@@ -160,7 +160,7 @@ NotebookLM es tu ancla porque no se sale del temario. Pero hay momentos donde S�
 
 **Regla importante:** si usas una IA externa para resolver un reto de la comunidad, dilo. No es trampa, pero sí rompe el espíritu de "aprender enseñando" si la usas para que TE RESUELVA en vez de ayudarte a entender.
 
-**Registro/Guardado de memoria:** La mejor forma en la que no pierdas tu progreso en una conversación o proyecto en tu IA es el registro de memoria que la mayoría de las IAs tienen, solo mencionales  que guarden los datos de tu conversación y/o otra forma de preservar e incluso exportar  el tema de tu conversación de forma sencilla a otras IAs o usuarios es una resumen o registro de todo tu chat que has tenido, este principal se usa en las partes conflictivas que se te pueden presentar como el agotamiento de tokens que puedes tener con Claude o los errores que puede cometer Gemini con un chat largo con ella.
+**Registro/Guardado de memoria:** La mejor forma en la que no pierdas tu progreso en una conversación o proyecto en tu IA es el registro de memoria que la mayoría de las IAs tienen, solo mencionales  que guarden los datos de tu conversación y/o otra forma de preservar e incluso exportar  el tema de tu conversación de forma sencilla a otras IAs o usuarios es una resumen o registro de todo tu chat que has tenido, este principalmente se usa en las partes conflictivas que se te pueden presentar como el agotamiento de tokens que puedes tener con Claude o los errores que puede cometer Gemini con un chat largo con ella.
 
 ---
 
