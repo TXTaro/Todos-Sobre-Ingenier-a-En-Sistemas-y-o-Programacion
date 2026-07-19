@@ -47,6 +47,6 @@ Este es un temario gigante y evolutivo que cubre **todo** lo que un **"True Engi
 
 ## 🚦 Estado del Sistema
 
-Versión Actual: `1.1.1.1 (Alpha)`
+Versión Actual: `v1.2.0.0 (Alpha)`
 Última Actualización: `11 de Julio, 2026`
 Herramientas de Creación: Obsidian
